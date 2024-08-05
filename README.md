@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif)
 <h1 align="center">Hi 👋, I'm Dimmithra Perera</h1>
 <h3 align="center">A Mobile app developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
